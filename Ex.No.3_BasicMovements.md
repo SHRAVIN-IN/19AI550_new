@@ -1,5 +1,5 @@
 # Ex.No: 3  Basic movements in Unity 
-### DATE: 00.09.2026                                                                          
+### DATE: 07.09.2026                                                                          
 ### REGISTER NUMBER : 212224243003
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
